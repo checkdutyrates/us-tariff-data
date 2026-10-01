@@ -1,0 +1,54 @@
+{
+  "name": "us-tariff-data",
+  "title": "US Harmonized Tariff Schedule, additional duties by country, and EU import duties by origin",
+  "homepage": "https://checkdutyrates.com/",
+  "version": "2026-10-01",
+  "sources": [
+    {
+      "title": "U.S. International Trade Commission, 2026 HTS Revision 20",
+      "path": "https://hts.usitc.gov/"
+    },
+    {
+      "title": "EU Common Customs Tariff and TARIC, via the UK Trade Tariff (XI) service",
+      "path": "https://www.trade-tariff.service.gov.uk/xi/find_commodity"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "US data: public domain (17 U.S.C. 105); compilation released under CC0",
+      "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "name": "OGL-UK-3.0",
+      "title": "EU files: Open Government Licence v3.0",
+      "path": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+    }
+  ],
+  "resources": [
+    {
+      "name": "hts",
+      "path": "data/hts.csv",
+      "format": "csv",
+      "description": "29861 coded rows of the 2026 HTS Revision 20"
+    },
+    {
+      "name": "additional_duties",
+      "path": "data/additional_duties.csv",
+      "format": "csv",
+      "description": "382 chapter 99 provisions naming a country"
+    },
+    {
+      "name": "eu_duty_by_origin",
+      "path": "data/eu_duty_by_origin.csv",
+      "format": "csv",
+      "description": "89088 rows: EU duty by HS subheading and origin"
+    },
+    {
+      "name": "eu_duty_by_country",
+      "path": "data/eu_duty_by_country.csv",
+      "format": "csv",
+      "description": "91 origins: EU duty-free share and averages"
+    }
+  ]
+}

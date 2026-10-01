@@ -1,0 +1,92 @@
+origin,country_slug,cn_codes,duty_free_codes,duty_free_share,avg_ad_valorem_duty,arrangements,codes_with_anti_dumping,codes_with_additional_duty
+AF,afghanistan,9791,9634,0.984,0.25,GSP-EBA (Special arrangement for the least-developed countries - Everything But Arms) (9248),0,0
+AL,albania,9786,9467,0.9674,0.38,"Bilateral agreement with the EU (7203); Western Balkan countries (AL, BA, ME, MK, XK, XS) (42)",0,0
+DZ,algeria,9768,8192,0.8387,1.52,Bilateral agreement with the EU (7280),0,0
+AO,angola,9791,9634,0.984,0.25,GSP-EBA (Special arrangement for the least-developed countries - Everything But Arms) (9248),0,0
+AR,argentina,9769,5242,0.5366,3.53,Mercosur (6870),17,0
+AM,armenia,9707,2525,0.2601,5.55,,0,0
+AU,australia,9707,2525,0.2601,5.55,,0,10
+AZ,azerbaijan,9707,2525,0.2601,5.55,,0,10
+BH,bahrain,9707,2525,0.2601,5.55,,3,0
+BD,bangladesh,9791,9634,0.984,0.25,GSP-EBA (Special arrangement for the least-developed countries - Everything But Arms) (9248),0,0
+BY,belarus,9707,2525,0.2601,5.55,,10,1986
+BO,bolivia,9769,8671,0.8876,0.45,GSP+ (incentive arrangement for sustainable development and good governance) (7543),0,0
+BA,bosnia-and-herzegovina,9786,9468,0.9675,0.4,"Bilateral agreement with the EU (7204); Western Balkan countries (AL, BA, ME, MK, XK, XS) (42)",0,10
+BR,brazil,9769,5242,0.5366,3.53,Mercosur (6870),24,10
+KH,cambodia,9791,9462,0.9664,0.41,GSP-EBA (Special arrangement for the least-developed countries - Everything But Arms) (9076),0,0
+CM,cameroon,9791,9666,0.9872,0.1,Bilateral agreement with the EU (9301),0,0
+CA,canada,9769,9486,0.971,0.3,Bilateral agreement with the EU (7141),16,10
+CL,chile,9770,9046,0.9259,0.48,Bilateral agreement with the EU (8535),0,0
+CN,china,9707,2525,0.2601,5.55,,323,10
+CO,colombia,9769,9240,0.9458,0.35,Bilateral agreement with the EU (8104),0,0
+CR,costa-rica,9770,9090,0.9304,0.46,Central America (7788),0,0
+CI,cote-d-ivoire,9791,9666,0.9872,0.1,Bilateral agreement with the EU (9301),0,0
+DO,dominican-republic,9791,9666,0.9872,0.1,CARIFORUM (9301),0,0
+EC,ecuador,9770,9269,0.9487,0.35,Bilateral agreement with the EU (7973),0,0
+EG,egypt,9770,9662,0.9889,0.13,Bilateral agreement with the EU (9161),28,0
+SV,el-salvador,9770,9090,0.9304,0.46,Central America (7788),0,0
+ET,ethiopia,9791,9634,0.984,0.25,GSP-EBA (Special arrangement for the least-developed countries - Everything But Arms) (9248),0,10
+GE,georgia,9770,9624,0.9851,0.26,Bilateral agreement with the EU (8525),0,10
+GH,ghana,9791,9666,0.9872,0.1,Bilateral agreement with the EU (9301),0,0
+GT,guatemala,9770,9090,0.9304,0.46,Central America (7788),0,0
+HN,honduras,9770,9090,0.9304,0.46,Central America (7788),0,0
+HK,hong-kong,9707,2525,0.2601,5.55,,0,0
+IS,iceland,9791,8807,0.8995,0.47,EEA - European Economic Area (6927); Bilateral agreement with the EU (1138); European Economic Area - Iceland (167),0,0
+IN,india,9712,3365,0.3465,4.08,GSP - General arrangements (2913),31,0
+ID,indonesia,9768,5405,0.5533,3.23,GSP - General arrangements (6404),57,0
+IR,iran,9707,2525,0.2601,5.55,,21,10
+IQ,iraq,9707,2525,0.2601,5.55,,0,10
+IL,israel,9769,9350,0.9571,0.2,Bilateral agreement with the EU (8990),0,10
+JP,japan,9770,9528,0.9752,0.34,Bilateral agreement with the EU (7337),21,10
+JO,jordan,9791,9178,0.9374,0.74,Bilateral agreement with the EU (8824),0,0
+KZ,kazakhstan,9707,2525,0.2601,5.55,,0,0
+KE,kenya,9791,9666,0.9872,0.1,Bilateral agreement with the EU (5764); GSP - General arrangements (3537),0,0
+XK,kosovo,9786,9514,0.9722,0.34,"Bilateral agreement with the EU (7180); Western Balkan countries (AL, BA, ME, MK, XK, XS) (42)",0,10
+KW,kuwait,9707,2525,0.2601,5.55,,0,0
+LB,lebanon,9769,9508,0.9733,0.13,Bilateral agreement with the EU (9138),0,10
+LI,liechtenstein,9769,7919,0.8106,1.73,EEA - European Economic Area (6910); Bilateral agreement with the EU (361),0,0
+MG,madagascar,9791,9666,0.9872,0.1,Eastern and Southern Africa States (9301),0,0
+MY,malaysia,9707,2525,0.2601,5.55,,0,0
+MU,mauritius,9791,9666,0.9872,0.1,Eastern and Southern Africa States (9301),0,0
+MX,mexico,9769,8710,0.8916,0.6,Bilateral agreement with the EU (8040),1,0
+MD,moldova,9774,9658,0.9881,0.1,Bilateral agreement with the EU (8954),0,0
+ME,montenegro,9786,9469,0.9676,0.4,"Bilateral agreement with the EU (7205); Western Balkan countries (AL, BA, ME, MK, XK, XS) (42)",0,0
+MA,morocco,9770,9638,0.9865,0.01,Bilateral agreement with the EU (9257),7,0
+MM,myanmar,9791,9634,0.984,0.25,GSP-EBA (Special arrangement for the least-developed countries - Everything But Arms) (9248),0,0
+NZ,new-zealand,9767,9044,0.926,0.5,Bilateral agreement with the EU (7070),0,10
+NI,nicaragua,9770,9090,0.9304,0.46,Central America (7788),0,0
+NG,nigeria,9768,5547,0.5679,2.9,GSP - General arrangements (6777),0,0
+MK,north-macedonia,9786,9512,0.972,0.34,"Bilateral agreement with the EU (7206); Western Balkan countries (AL, BA, ME, MK, XK, XS) (42)",0,0
+NO,norway,9769,7950,0.8138,1.39,EEA - European Economic Area (7116); Bilateral agreement with the EU (361),0,0
+OM,oman,9707,2525,0.2601,5.55,,0,0
+PK,pakistan,9769,8671,0.8876,0.45,GSP+ (incentive arrangement for sustainable development and good governance) (7543),0,0
+PA,panama,9770,9090,0.9304,0.46,Central America (7788),0,0
+PY,paraguay,9769,5244,0.5368,3.53,Mercosur (6869),0,0
+PE,peru,9778,9355,0.9567,0.33,Bilateral agreement with the EU (7058),0,0
+PH,philippines,9769,8671,0.8876,0.45,GSP+ (incentive arrangement for sustainable development and good governance) (7543),0,0
+QA,qatar,9707,2525,0.2601,5.55,,0,0
+RU,russia,9707,2525,0.2601,5.55,,73,1986
+SA,saudi-arabia,9707,2525,0.2601,5.55,,3,0
+SN,senegal,9791,9634,0.984,0.25,GSP-EBA (Special arrangement for the least-developed countries - Everything But Arms) (9248),0,0
+RS,serbia,9707,2525,0.2601,5.55,,0,0
+SG,singapore,9770,9655,0.9882,0.31,Bilateral agreement with the EU (8007),0,10
+ZA,south-africa,9769,9238,0.9456,0.49,Bilateral agreement with the EU (8108),0,0
+KR,south-korea,9787,9730,0.9942,0.03,Bilateral agreement with the EU (8856),8,10
+LK,sri-lanka,9769,8671,0.8876,0.45,GSP+ (incentive arrangement for sustainable development and good governance) (7543),1,0
+CH,switzerland,9769,7928,0.8115,2.13,Bilateral agreement with the EU (6830),0,10
+TW,taiwan,9707,2525,0.2601,5.55,,38,10
+TZ,tanzania,9791,9634,0.984,0.25,GSP-EBA (Special arrangement for the least-developed countries - Everything But Arms) (9248),0,0
+TH,thailand,9707,2525,0.2601,5.55,,8,0
+TN,tunisia,9769,8193,0.8387,1.52,Bilateral agreement with the EU (7775),1,0
+TR,turkey,9769,8793,0.9001,0.33,Customs union (6617); Bilateral agreement with the EU (1468),53,10
+UG,uganda,9791,9634,0.984,0.25,GSP-EBA (Special arrangement for the least-developed countries - Everything But Arms) (9248),0,0
+UA,ukraine,9770,9293,0.9512,0.38,Bilateral agreement with the EU (6943),0,0
+AE,united-arab-emirates,9707,2525,0.2601,5.55,,0,10
+GB,united-kingdom,9791,9791,1.0,0,Bilateral agreement with the EU (9791),0,10
+US,united-states,9768,7615,0.7796,2.45,Bilateral agreement with the EU (7292),22,10
+UY,uruguay,9769,5242,0.5366,3.53,Mercosur (6870),0,0
+UZ,uzbekistan,9769,8671,0.8876,0.45,GSP+ (incentive arrangement for sustainable development and good governance) (7543),0,10
+VE,venezuela,9707,2525,0.2601,5.55,,0,0
+VN,vietnam,9769,9186,0.9403,0.36,Bilateral agreement with the EU (7933),40,0
+ZM,zambia,9791,9634,0.984,0.25,GSP-EBA (Special arrangement for the least-developed countries - Everything But Arms) (9248),0,0
+ZW,zimbabwe,9791,9666,0.9872,0.1,Eastern and Southern Africa States (9301),0,0

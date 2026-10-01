@@ -1,0 +1,15 @@
+Data licence
+============
+
+data/hts.csv, data/hts.json, data/additional_duties.csv
+  Derived from the US Harmonized Tariff Schedule published by the U.S. International Trade
+  Commission. Works of the US government are in the public domain (17 U.S.C. 105). To the extent
+  any rights exist in this compilation, they are waived under CC0 1.0 Universal:
+  https://creativecommons.org/publicdomain/zero/1.0/
+
+data/eu_duty_by_origin.csv, data/eu_duty_by_country.csv
+  Contains public sector information licensed under the Open Government Licence v3.0
+  (EU Common Customs Tariff and TARIC measures, published through the UK Trade Tariff XI service):
+  https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+
+Maintained by CheckDutyRates — https://checkdutyrates.com/
