@@ -6,6 +6,8 @@ The official sources publish this as PDFs, a web app and nested JSON. Here it is
 
 **Browse it online:** every code, rate and country is a page on **[checkdutyrates.com](https://checkdutyrates.com/)** — for example [8507.60 lithium-ion batteries](https://checkdutyrates.com/hs/85076000), [additional duties on goods from China](https://checkdutyrates.com/tariffs/china) or [EU import duties on goods from Japan](https://checkdutyrates.com/eu/from/japan).
 
+Also on **[Kaggle](https://www.kaggle.com/datasets/checkdutyrates/us-tariff-data)**.
+
 Current data: see [`data/VERSION.json`](data/VERSION.json) (HTS revision and the date the EU data was checked).
 
 ## Files
