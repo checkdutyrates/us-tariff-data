@@ -5,6 +5,7 @@ title: "US Tariff Data: HTS, additional duties by country and EU import duties"
 authors:
   - name: CheckDutyRates
     website: "https://checkdutyrates.com/"
+doi: "10.5281/zenodo.23093989"
 repository-code: "https://github.com/checkdutyrates/us-tariff-data"
 url: "https://checkdutyrates.com/"
 license: CC0-1.0

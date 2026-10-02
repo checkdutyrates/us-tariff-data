@@ -1,12 +1,14 @@
 # US Tariff Data — HTS, additional duties by country, EU import duties
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23093989.svg)](https://doi.org/10.5281/zenodo.23093989)
+
 Clean, machine-readable copies of the **US Harmonized Tariff Schedule (HTS)**, the **chapter 99 additional duties that name a country** (Section 301, 232, 338, the forced-labor duty and the ended IEEPA and Section 122 measures), and **EU import duties by country of origin** — refreshed with every HTS revision.
 
 The official sources publish this as PDFs, a web app and nested JSON. Here it is as flat CSV you can load in one line.
 
 **Browse it online:** every code, rate and country is a page on **[checkdutyrates.com](https://checkdutyrates.com/)** — for example [8507.60 lithium-ion batteries](https://checkdutyrates.com/hs/85076000), [additional duties on goods from China](https://checkdutyrates.com/tariffs/china) or [EU import duties on goods from Japan](https://checkdutyrates.com/eu/from/japan).
 
-Also on **[Kaggle](https://www.kaggle.com/datasets/checkdutyrates/us-tariff-data)** and **[Hugging Face](https://huggingface.co/datasets/checkdutyrates/us-tariff-data)**.
+Also on **[Kaggle](https://www.kaggle.com/datasets/checkdutyrates/us-tariff-data)** and **[Hugging Face](https://huggingface.co/datasets/checkdutyrates/us-tariff-data)**, and archived with a DOI on **[Zenodo](https://doi.org/10.5281/zenodo.23093989)**.
 
 Current data: see [`data/VERSION.json`](data/VERSION.json) (HTS revision and the date the EU data was checked).
 
@@ -79,7 +81,7 @@ This is a convenience copy, not a legal reference. Classification and the duty a
 If you use this data, please link to [checkdutyrates.com](https://checkdutyrates.com/), where it is maintained and browsable:
 
 ```
-CheckDutyRates (2026). US Tariff Data: HTS, additional duties by country and EU import duties. https://checkdutyrates.com/
+CheckDutyRates (2026). US Tariff Data: HTS, additional duties by country and EU import duties. Zenodo. https://doi.org/10.5281/zenodo.23093989
 ```
 
 ## Updates
