@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it and link to checkdutyrates.com, where it is maintained and browsable."
+type: dataset
+title: "US Tariff Data: HTS, additional duties by country and EU import duties"
+authors:
+  - name: CheckDutyRates
+    website: "https://checkdutyrates.com/"
+repository-code: "https://github.com/checkdutyrates/us-tariff-data"
+url: "https://checkdutyrates.com/"
+license: CC0-1.0
+keywords:
+  - tariffs
+  - customs duty
+  - Harmonized Tariff Schedule
+  - HS codes
+  - EU TARIC

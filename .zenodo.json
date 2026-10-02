@@ -1,0 +1,13 @@
+{
+  "upload_type": "dataset",
+  "title": "US Tariff Data: HTS, additional duties by country and EU import duties",
+  "description": "<p>Clean, machine-readable copies of the US Harmonized Tariff Schedule (HTS), the chapter 99 additional duties that name a country (Section 301, 232, 338, the forced-labor duty and the ended IEEPA and Section 122 measures), and EU import duties by country of origin, as flat CSV and JSON with a Frictionless datapackage.json descriptor. Regenerated after each HTS revision.</p><p>Browse every code, rate and country at <a href=\"https://checkdutyrates.com/\">checkdutyrates.com</a>.</p><p>US data: public domain (17 U.S.C. 105), compilation released under CC0 1.0. EU data: Open Government Licence v3.0 (contains public sector information licensed under the Open Government Licence v3.0).</p>",
+  "creators": [{ "name": "CheckDutyRates" }],
+  "license": "cc-zero",
+  "keywords": ["tariffs", "customs duty", "import duty", "Harmonized Tariff Schedule", "HTS", "HS codes", "Section 301", "Section 232", "EU TARIC", "international trade"],
+  "related_identifiers": [
+    { "identifier": "https://checkdutyrates.com/", "relation": "isDocumentedBy", "resource_type": "other" },
+    { "identifier": "https://www.kaggle.com/datasets/checkdutyrates/us-tariff-data", "relation": "isIdenticalTo", "resource_type": "dataset" },
+    { "identifier": "https://huggingface.co/datasets/checkdutyrates/us-tariff-data", "relation": "isIdenticalTo", "resource_type": "dataset" }
+  ]
+}
